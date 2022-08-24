@@ -1,0 +1,30 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form label,
+form p {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+form label,
+form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
